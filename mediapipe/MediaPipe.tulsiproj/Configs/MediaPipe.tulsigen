@@ -17,6 +17,7 @@
     "mediapipe/examples/ios/multihandtrackinggpu/BUILD",
     "mediapipe/examples/ios/objectdetectioncpu/BUILD",
     "mediapipe/examples/ios/objectdetectiongpu/BUILD",
+    "mediapipe/examples/ios/templatematching/BUILD",
     "mediapipe/examples/ios/upperbodyposetrackinggpu/BUILD"
   ],
   "buildTargets" : [

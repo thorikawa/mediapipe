@@ -45,7 +45,7 @@ Object Detection                                                                
 [Box Tracking](https://google.github.io/mediapipe/solutions/box_tracking)                       | ✅       | ✅   | ✅       |        |     |
 [Instant Motion Tracking](https://google.github.io/mediapipe/solutions/instant_motion_tracking) | ✅       |     |         |        |     |
 [Objectron](https://google.github.io/mediapipe/solutions/objectron)                             | ✅       |     |         |        |     |
-[KNIFT](https://google.github.io/mediapipe/solutions/knift)                                     | ✅       |     |         |        |     |
+[KNIFT](https://google.github.io/mediapipe/solutions/knift)                                     | ✅       | ✅   |         |        |     |
 [AutoFlip](https://google.github.io/mediapipe/solutions/autoflip)                               |         |     | ✅       |        |     |
 [MediaSequence](https://google.github.io/mediapipe/solutions/media_sequence)                    |         |     | ✅       |        |     |
 [YouTube 8M](https://google.github.io/mediapipe/solutions/youtube_8m)                           |         |     | ✅       |        |     |

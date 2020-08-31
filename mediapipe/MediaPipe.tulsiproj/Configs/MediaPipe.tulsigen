@@ -30,6 +30,7 @@
     "//mediapipe/examples/ios/multihandtrackinggpu:MultiHandTrackingGpuApp",
     "//mediapipe/examples/ios/objectdetectioncpu:ObjectDetectionCpuApp",
     "//mediapipe/examples/ios/objectdetectiongpu:ObjectDetectionGpuApp",
+    "//mediapipe/examples/ios/templatematching:TemplateMatchingApp",
     "//mediapipe/examples/ios/upperbodyposetrackinggpu:UpperBodyPoseTrackingGpuApp",
     "//mediapipe/objc:mediapipe_framework_ios"
   ],
@@ -96,6 +97,7 @@
     "mediapipe/examples/ios/multihandtrackinggpu",
     "mediapipe/examples/ios/objectdetectioncpu",
     "mediapipe/examples/ios/objectdetectiongpu",
+    "mediapipe/examples/ios/templatematching",
     "mediapipe/examples/ios/upperbodyposetrackinggpu",
     "mediapipe/framework",
     "mediapipe/framework/deps",

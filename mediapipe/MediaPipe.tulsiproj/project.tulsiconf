@@ -20,6 +20,7 @@
     "mediapipe/examples/ios/multihandtrackinggpu",
     "mediapipe/examples/ios/objectdetectioncpu",
     "mediapipe/examples/ios/objectdetectiongpu",
+    "mediapipe/examples/ios/templatematching",
     "mediapipe/examples/ios/upperbodyposetrackinggpu"
   ],
   "projectName" : "Mediapipe",
